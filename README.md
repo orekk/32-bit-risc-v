@@ -1,4 +1,6 @@
-Inky 1.0 — RV32I FPGA SoC Development Board
+## Inky 1.0 — RV32I FPGA SoC
+
+![Inky 1.0 PCB layout](docs/images/inky-v1-pcb.jpg)
 
 A compact, custom 4-layer PCB hardware platform designed to host a 32-bit RISC-V soft processor implemented from scratch in SystemVerilog.
 
